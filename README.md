@@ -1,5 +1,6 @@
 # hagukky.github.io
 
+
 A.実装できたタイトル　
 ・githubのissuesの使い方
 ・GithubPagesの作り方と活用方法
@@ -30,3 +31,4 @@ D.各メンバーのgit・githubの理解度(相互評価)
 小成楓斗　3
 大須賀雅希　3
 久保田介栄　3
+
