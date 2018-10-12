@@ -1,8 +1,8 @@
 # hagukky.github.io
 
 
-A.実装できたタイトル　　
-・githubのissuesの使い方　　
+A.実装できたタイトル  
+・githubのissuesの使い方  
 ・GithubPagesの作り方と活用方法　　
 ・githubのpull requestでLabelやAssigneeの使い方　　
 ・githubのGistの使い方について　　
